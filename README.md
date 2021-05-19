@@ -6,7 +6,7 @@
 
 Recommended method is to use `nvm` (Node Version Manager) to install and manage different versions of node in your system. 
 
-- Follow the steps in [NVM Installation](https://github.com/nvm-sh/nvm/blob/master/README.md#installing-and-updating) and instal `nvm`
+- Follow the steps in [NVM Installation](https://github.com/nvm-sh/nvm/blob/master/README.md#installing-and-updating) and install `nvm`
 
 - Once `nvm` is installed, install node using 
 ```
